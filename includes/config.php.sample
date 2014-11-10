@@ -1,0 +1,4 @@
+<?php
+define('HTTP_DIR', 'http://your.domain/');
+define('ROOT_DIR', '/var/www/html/');
+define('DEBUG', false);
